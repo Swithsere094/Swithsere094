@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Daniel Castillo and I'm a Software Developer, from Medellín, Colombia. <br><br>Currently learing VueJs and Laravel, and working as a software development teacher.</h2>
+<h2 align="left">Hi 👋! My name is Daniel Castillo and I'm a Software Developer, from Medellín, Colombia. <br><br>Currently learning VueJs and Laravel, and working as a software development teacher.</h2>
 
 ###
 
