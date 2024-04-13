@@ -32,7 +32,9 @@
   <a href="https://discordapp.com/users/Swithsere094" target="_blank">
     <img src="https://img.shields.io/static/v1?message=swithsere094&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=danielcastillo460@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:danielcastillo460@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=danielcastillo460@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/daniel-jes%C3%BAs-castillo-botero-563577190" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Daniel%20Castillo&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
