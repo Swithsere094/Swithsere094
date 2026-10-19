@@ -1,49 +1,59 @@
-<h2 align="left">Hi 👋! My name is Daniel Castillo and I'm a Software Developer, from Medellín, Colombia. <br><br>Currently learning VueJs and Laravel, and working as a software development teacher.</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swithsere094&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swithsere094&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Daniel+Castillo+%F0%9F%91%8B;Desarrollador+Full-Stack;Docente+de+desarrollo+de+software;Ciencia+de+Datos+%2B+IA+aplicada" alt="Hola, soy Daniel Castillo" />
+
+📍 Medellín, Colombia
+
+<a href="https://www.linkedin.com/in/daniel-jes%C3%BAs-castillo-botero-563577190" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:danielcastillo460@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.instagram.com/daniel.castillob/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://discordapp.com/users/Swithsere094" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+
 </div>
 
-###
+---
 
-<div align="right">
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
+### 🙋‍♂️ Sobre mí
 
-###
+- 💻 Desarrollo aplicaciones web de punta a punta: frontend, backend, base de datos y despliegue automatizado.
+- 👨‍🏫 Enseño desarrollo de software en la **UPB**.
+- 📊 Estudio la **Maestría en Ciencia de Datos** en la Universidad Pontificia Bolivariana.
+- 🤖 Me interesa la IA aplicada: asistentes RAG locales, modelos predictivos y herramientas que hacen más fácil el trabajo diario.
 
-<div align="left">
-  <a href="https://www.instagram.com/daniel.castillob/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=daniel.castillob&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discordapp.com/users/Swithsere094" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=swithsere094&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
-  </a>
-  <a href="mailto:danielcastillo460@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=danielcastillo460@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-jes%C3%BAs-castillo-botero-563577190" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Daniel%20Castillo&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### 🛠️ Tecnologías
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,tailwind,laravel,php,py,fastapi,sklearn,postgres,mysql,vite,git,githubactions&perline=8" alt="Tecnologías" />
+</p>
 
-<br clear="both">
+### 🚀 Proyectos destacados
 
-<img src="https://raw.githubusercontent.com/Swithsere094/Swithsere094/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <a href="https://github.com/Swithsere094/gaiacapoeira-laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swithsere094&repo=gaiacapoeira-laravel&theme=tokyonight&hide_border=true" alt="gaiacapoeira-laravel" /></a>
+  <a href="https://github.com/Swithsere094/Claude-Status-Widget"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swithsere094&repo=Claude-Status-Widget&theme=tokyonight&hide_border=true" alt="Claude-Status-Widget" /></a>
+</p>
 
-###
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**Gaia Capoeira**](https://github.com/Swithsere094/gaiacapoeira-laravel) | Sitio de la comunidad de capoeira *Areia no Mar*, en producción en [gaiacapoeira.com](https://gaiacapoeira.com): videos, cancionero, calendario de eventos, roles y permisos, analíticas propias y publicación automática con rollback. | Laravel 13 · Inertia · React 19 · TypeScript · MariaDB |
+| [**Gaia Capoeira (v1)**](https://github.com/Swithsere094/gaiacapoeira) | Primera versión del mismo sitio, migrada a Laravel cuando el hosting dejó de ejecutar Node. | Next.js 16 · Drizzle ORM · MySQL |
+| [**Mascotas de Claude Code**](https://github.com/Swithsere094/Claude-Status-Widget) | Widget flotante para Windows con una mascota animada por cada sesión de Claude Code: muestra cuál trabaja, cuál terminó y cuál te espera. | Python |
+
+### 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swithsere094&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swithsere094&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=es" height="165" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Swithsere094&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swithsere094/Swithsere094/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swithsere094/Swithsere094/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/Swithsere094/Swithsere094/output/snake.svg" alt="Serpiente comiéndose el gráfico de contribuciones" />
+  </picture>
+</p>
