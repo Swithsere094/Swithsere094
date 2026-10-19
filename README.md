@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Daniel+Castillo+%F0%9F%91%8B;Desarrollador+Full-Stack;Docente+de+desarrollo+de+software;Ciencia+de+Datos+%2B+IA+aplicada" alt="Hola, soy Daniel Castillo" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&lines=Hola%2C+soy+Daniel+Castillo;Desarrollador+Full-Stack;Docente+de+desarrollo+de+software;Ciencia+de+Datos+%2B+IA+aplicada" alt="Hola, soy Daniel Castillo" />
 
-📍 Medellín, Colombia
+Medellín, Colombia
 
 <a href="https://www.linkedin.com/in/daniel-jes%C3%BAs-castillo-botero-563577190" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:danielcastillo460@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -13,20 +13,20 @@
 
 ---
 
-### 🙋‍♂️ Sobre mí
+### Sobre mí
 
-- 💻 Desarrollo aplicaciones web de punta a punta: frontend, backend, base de datos y despliegue automatizado.
-- 👨‍🏫 Enseño desarrollo de software en la **UPB**.
-- 📊 Estudio la **Maestría en Ciencia de Datos** en la Universidad Pontificia Bolivariana.
-- 🤖 Me interesa la IA aplicada: asistentes RAG locales, modelos predictivos y herramientas que hacen más fácil el trabajo diario.
+- Desarrollo aplicaciones web de punta a punta: frontend, backend, base de datos y despliegue automatizado.
+- Enseño desarrollo de software en la **UPB**.
+- Estudio la **Maestría en Ciencia de Datos** en la Universidad Pontificia Bolivariana.
+- Me interesa la IA aplicada: asistentes RAG locales, modelos predictivos y herramientas que hacen más fácil el trabajo diario.
 
-### 🛠️ Tecnologías
+### Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,react,nextjs,ts,js,tailwind,laravel,php,py,fastapi,sklearn,postgres,mysql,vite,git,githubactions&perline=8" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vue,laravel,php,py,mysql,tailwind" alt="Tecnologías" />
 </p>
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 <p align="center">
   <a href="https://github.com/Swithsere094/gaiacapoeira-laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Swithsere094&repo=gaiacapoeira-laravel&theme=tokyonight&hide_border=true" alt="gaiacapoeira-laravel" /></a>
@@ -36,10 +36,9 @@
 | Proyecto | Qué es | Stack |
 |---|---|---|
 | [**Gaia Capoeira**](https://github.com/Swithsere094/gaiacapoeira-laravel) | Sitio de la comunidad de capoeira *Areia no Mar*, en producción en [gaiacapoeira.com](https://gaiacapoeira.com): videos, cancionero, calendario de eventos, roles y permisos, analíticas propias y publicación automática con rollback. | Laravel 13 · Inertia · React 19 · TypeScript · MariaDB |
-| [**Gaia Capoeira (v1)**](https://github.com/Swithsere094/gaiacapoeira) | Primera versión del mismo sitio, migrada a Laravel cuando el hosting dejó de ejecutar Node. | Next.js 16 · Drizzle ORM · MySQL |
 | [**Mascotas de Claude Code**](https://github.com/Swithsere094/Claude-Status-Widget) | Widget flotante para Windows con una mascota animada por cada sesión de Claude Code: muestra cuál trabaja, cuál terminó y cuál te espera. | Python |
 
-### 📈 Estadísticas
+### Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swithsere094&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=es" height="165" alt="Estadísticas de GitHub" />
